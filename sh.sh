@@ -1,1 +1,1 @@
-echo github.com/nimafanniasl ; echo searching... ;  echo /dev/sd*
+echo github.com/nimafanniasl ; ls /dev/[sh]d*?
